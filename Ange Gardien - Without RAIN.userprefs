@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Plugins\Java\js_gameMaster.js">
+    <Files>
+      <File FileName="Assets\Plugins\Java\js_startWave.js" Line="59" Column="18" />
+      <File FileName="Assets\Plugins\Java\js_gameMaster.js" Line="808" Column="29" />
+      <File FileName="Assets\Plugins\Java\js_selection.js" Line="58" Column="41" />
+      <File FileName="Assets\Plugins\Java\js_cubeMover.js" Line="39" Column="17" />
+      <File FileName="Assets\Plugins\Java\js_turretScript.js" Line="59" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

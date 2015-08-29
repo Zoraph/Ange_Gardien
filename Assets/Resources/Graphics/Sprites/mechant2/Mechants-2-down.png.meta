@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 7ba95e23ceb7fd94cb81d492deb13e09
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 2
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Mechants-2-down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 467
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Mechants-2-down_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 459
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Mechants-2-down_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 448
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Mechants-2-down_3
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 442
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Mechants-2-down_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 434
+        width: 41
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Mechants-2-down_5
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 428
+        width: 45
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Mechants-2-down_6
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 420
+        width: 46
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Mechants-2-down_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 51
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Mechants-2-down_17
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 201
+        width: 46
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Mechants-2-down_34
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 228
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Mechants-2-down_24
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 466
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Mechants-2-down_25
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 449
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Mechants-2-down_26
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 414
+        width: 49
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Mechants-2-down_13
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 185
+        width: 50
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Mechants-2-down_14
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 190
+        width: 44
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Mechants-2-down_15
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 196
+        width: 44
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Mechants-2-down_32
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 209
+        width: 43
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Mechants-2-down_33
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 213
+        width: 39
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Mechants-2-down_18
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 218
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Mechants-2-down_19
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 222
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Mechants-2-down_20
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 235
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

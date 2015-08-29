@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: 93b7cf4f9be966c4d81ae37f6c28c53c
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 2
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Mechants-1-profil - 2b_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 848
+        width: 104
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mechants-1-profil - 2b_1
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 848
+        width: 103
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mechants-1-profil - 2b_2
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 848
+        width: 103
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mechants-1-profil - 2b_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 848
+        width: 102
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mechants-1-profil - 2b_4
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 847
+        width: 101
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mechants-1-profil - 2b_5
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 847
+        width: 100
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mechants-1-profil - 2b_6
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 847
+        width: 100
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Mechants-1-profil - 2b_7
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 671
+        width: 105
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mechants-1-profil - 2b_8
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 671
+        width: 106
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mechants-1-profil - 2b_9
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 671
+        width: 106
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mechants-1-profil - 2b_10
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 671
+        width: 107
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mechants-1-profil - 2b_11
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 671
+        width: 106
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mechants-1-profil - 2b_12
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 671
+        width: 105
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mechants-1-profil - 2b_13
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 671
+        width: 104
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Mechants-1-profil - 2b_14
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 494
+        width: 103
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mechants-1-profil - 2b_15
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 494
+        width: 103
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mechants-1-profil - 2b_16
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 494
+        width: 104
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mechants-1-profil - 2b_17
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 494
+        width: 104
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mechants-1-profil - 2b_18
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 494
+        width: 104
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mechants-1-profil - 2b_19
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 494
+        width: 104
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mechants-1-profil - 2b_20
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 494
+        width: 105
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Mechants-1-profil - 2b_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 316
+        width: 100
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mechants-1-profil - 2b_22
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 316
+        width: 101
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mechants-1-profil - 2b_23
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 316
+        width: 101
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mechants-1-profil - 2b_24
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 317
+        width: 102
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mechants-1-profil - 2b_25
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 317
+        width: 102
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mechants-1-profil - 2b_26
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 317
+        width: 103
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mechants-1-profil - 2b_27
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 317
+        width: 103
+        height: 145
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Mechants-1-profil - 2b_28
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 139
+        width: 100
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mechants-1-profil - 2b_29
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 139
+        width: 100
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
